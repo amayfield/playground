@@ -2,6 +2,7 @@
 
 """
 Rabbit gestation date calculator. 31 days from rabbit sexy time.
+Need to update to display range 30-32 days
 """
 
 # vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
